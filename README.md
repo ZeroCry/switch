@@ -1,6 +1,7 @@
 # Switch
 ## Homebrews
 
+* [Homebrew Menu v2.0.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
 * [appstore v1.0](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 * [gcdumptool v1.0.2](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 * [WAINCartDumperNX v0.0.3](https://gbatemp.net/threads/xci-dumper.506700/): XCI Dumper
