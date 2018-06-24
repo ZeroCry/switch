@@ -1,7 +1,7 @@
 /Nintendo
 *.xci
-licence.dat
-licence-request.dat
+license.dat
+license-request.dat
 
 # OS generated files
 .DS_Store
