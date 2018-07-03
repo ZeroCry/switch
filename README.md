@@ -1,18 +1,30 @@
 # Switch
+
 ## Homebrews
 
-* [appstore v1.0](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
-* [Checkpoint 3.3.0](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
-* [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
-* [Homebrew Menu v2.0.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
-* [WAINCartDumperNX v0.0.3](https://gbatemp.net/threads/xci-dumper.506700/): XCI Dumper
+- [appstore v1.0](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
+- [Checkpoint 3.3.0](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
+- [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
+- [Homebrew Menu v2.0.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
+- [WAINCartDumperNX v0.0.3](https://gbatemp.net/threads/xci-dumper.506700/): XCI Dumper
 
 ## Tools
 
-* [XCI_Trimmer 2018-06-11](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
-* [XCI-Explorer v1.2.2.0](https://github.com/StudentBlake/XCI-Explorer): A decompiled version of XCI Explorer using ILSpy
-
+- [XCI_Trimmer 2018-06-11](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
+- [XCI-Explorer v1.2.2.0](https://github.com/StudentBlake/XCI-Explorer): A decompiled version of XCI Explorer using ILSpy
 
 ## CFW
 
-* [Xecuter SX OS v1.1](https://sx.xecuter.com/)
+- [Xecuter SX OS v1.1](https://sx.xecuter.com/)
+
+# Troubleshootings
+
+## Mac and empty Homebrew Menu
+
+When booting into SX OS hbmenu I get the error "No applications could be found on the SD card. Make sure a folder named /switch exists in the root of the SD card and it contains applications.".
+
+In order to fix it, run in a terminal:
+
+```
+sudo chflags -R arch /Volumes/<SDCARD>
+```
