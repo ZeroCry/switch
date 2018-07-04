@@ -3,6 +3,7 @@
 *.bin
 license.dat
 license-request.dat
+switch/
 
 # OS generated files
 .DS_Store
