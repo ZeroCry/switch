@@ -15,7 +15,7 @@
 
 ## CFW
 
-- [Xecuter SX OS v1.1](https://sx.xecuter.com/)
+- [Xecuter SX OS v1.2](https://sx.xecuter.com/)
 
 # Troubleshootings
 
