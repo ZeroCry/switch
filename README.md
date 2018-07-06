@@ -16,6 +16,7 @@
 ## CFW
 
 - [Xecuter SX OS v1.3](https://sx.xecuter.com/)
+- DevMenu for titleid 01005D100807A000
 
 # Troubleshootings
 

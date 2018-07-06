@@ -1,6 +1,7 @@
 /Nintendo
 *.xci
 *.bin
+*.nsp
 license.dat
 license-request.dat
 switch/
