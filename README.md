@@ -4,15 +4,15 @@
 
 - [appstore v1.0](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 - [Checkpoint v3.3.0](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
-- [EdiZon v1.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
+- [EdiZon v1.2](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
 - [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Homebrew Menu v2.0.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
 - [WAINCartDumperNX v0.0.3](https://gbatemp.net/threads/xci-dumper.506700/): XCI Dumper
 
 ## Tools
 
-- [XCI_Trimmer 2018-06-11](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
-- [XCI-Explorer v1.2.2.0](https://github.com/StudentBlake/XCI-Explorer): A decompiled version of XCI Explorer using ILSpy
+- [XCI_Trimmer ed672240](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
+- [XCI-Explorer v1.2.4](https://github.com/StudentBlake/XCI-Explorer): A decompiled version of XCI Explorer using ILSpy
 
 ## CFW
 
