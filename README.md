@@ -12,7 +12,7 @@
 
 ## Tools
 
-- [XCI_Trimmer ed672240](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
+- [XCI_Trimmer f3654646](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
 - [XCI-Explorer v1.2.4](https://github.com/StudentBlake/XCI-Explorer): A decompiled version of XCI Explorer using ILSpy
 
 ## CFW
