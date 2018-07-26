@@ -2,15 +2,6 @@
 
 json = require("lib.json")
 
-function convertToString(t)
-	str = ""
-	for i, arg in ipairs(t) do
-		str = str..string.char(arg)
-	end
-	
-	return str
-end
-
 function convertToTable(s)
 	t = {}
 	
@@ -21,7 +12,7 @@ function convertToTable(s)
 	return t
 end
 
-saveFileBuffer = json.decode(convertToString(edizon.getSaveFileBuffer()))
+saveFileBuffer = json.decode(edizon.getSaveFileString())
 
 function getValueFromSaveFile()
 	strArgs = edizon.getStrArgs()
@@ -33,14 +24,14 @@ function getValueFromSaveFile()
 		if type(item) ~= "table" then break end
 	
 		if string.sub(tag, 1, 1) == "\\" then
-			tag = tonumber(string.sub(tag, 2, 2)) + 1
+			tag = tonumber(tag:sub(2)) + 1
 			
 			if tag == nil then return 0 end
 		end
 	
 		item = item[tag]
 	end
-	
+		
 	if intArgs[1] == 0 then
 		return item
 	else
@@ -54,14 +45,12 @@ function setValueInSaveFile(value)
 	intArgs = edizon.getIntArgs()
 	
 	local ref = items
-	
+		
 	for i, tag in ipairs(strArgs) do
+		
 		if string.sub(tag, 1, 1) == "\\" then
-			tag = tonumber(string.sub(tag, 2, 2)) + 1
-			
-			if tag == nil then return 0 end
+			tag = tonumber(tag:sub(2)) + 1
 		end
-	
 		if i == #strArgs then
 			if intArgs[1] == 0 then
 				ref[tag] = value
@@ -71,6 +60,7 @@ function setValueInSaveFile(value)
 		else 
 			ref = ref[tag]
 		end
+		
 	end
 end
 
