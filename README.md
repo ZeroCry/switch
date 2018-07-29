@@ -6,8 +6,10 @@
 - [Checkpoint v3.4.0](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
 - [EdiZon v1.3.3](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
 - [EdiZon ConfigAndScripts 364eead4](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
+- [ftpd v2.2.0-e627691c](https://github.com/WinterMute/ftpd): FTP Server
 - [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Homebrew Menu v2.0.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
+- [NX-Shell - Beta Release 4](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch.
 - [WAINCartDumperNX v0.0.3](https://gbatemp.net/threads/xci-dumper.506700/): XCI Dumper
 
 ## Tools
