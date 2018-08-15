@@ -1,6 +1,14 @@
 # Switch
 
-## Homebrews
+## Installation
+
+You can download the latest version in a zip file: https://github.com/GreatWizard/switch/archive/master.zip
+
+Then extract the whole zip file at the root of your SD card.
+
+## Content
+
+### Homebrews
 
 - [appstore v1.0](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 - [Checkpoint v3.4.0](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
@@ -13,19 +21,19 @@
 - [NX-Shell - Beta Release 4](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch.
 - [WAINCartDumperNX v0.0.3](https://gbatemp.net/threads/xci-dumper.506700/): XCI Dumper
 
-## Tools
+### Tools
 
 - [XCI_Trimmer ed672240](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
 - [XCI-Explorer v1.4.1](https://github.com/StudentBlake/XCI-Explorer): A decompiled version of XCI Explorer using ILSpy
 
-## CFW
+### CFW
 
 - [Xecuter SX OS v1.5](https://sx.xecuter.com/)
 - DevMenu for titleid 01005D100807A000
 
-# Troubleshootings
+## Troubleshootings
 
-## Mac and empty Homebrew Menu
+### Mac and empty Homebrew Menu
 
 When booting into SX OS hbmenu I get the error "No applications could be found on the SD card. Make sure a folder named /switch exists in the root of the SD card and it contains applications.".
 
