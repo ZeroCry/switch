@@ -12,10 +12,10 @@ Then extract the whole zip file at the root of your SD card.
 
 - [appstore v1.0](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 - [Checkpoint v3.4.1](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
-- [EdiZon v1.3.3](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
-- [EdiZon ConfigAndScripts 65ef3dd1](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
-- [FreeShopNX v0.2.0](https://github.com/AnalogMan151/FreeShopNX): CDN title installer
-- [ftpd v2.2.0-e627691c](https://github.com/WinterMute/ftpd): FTP Server
+- [EdiZon v1.4.0](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
+- [EdiZon ConfigAndScripts 09d98594](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
+- [FreeShopNX v0.3.0](https://github.com/AnalogMan151/FreeShopNX): CDN title installer
+- [ftpd v2.2.0-947dc137](https://github.com/WinterMute/ftpd): FTP Server
 - [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Homebrew Menu v2.0.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
 - [NX-Shell - Beta Release 4](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch.
