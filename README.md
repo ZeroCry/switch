@@ -1,5 +1,8 @@
 # Switch
 
+![](https://img.shields.io/badge/switch-sx--os-red.svg)
+![](https://img.shields.io/badge/switch-sdfiles-orange.svg)
+
 ## Installation
 
 You can download the latest version in a zip file: https://github.com/GreatWizard/switch/archive/master.zip
