@@ -31,7 +31,7 @@ Then extract the whole zip file at the root of your SD card.
 
 ### CFW
 
-- [Xecuter SX OS v1.5](https://sx.xecuter.com/)
+- [Xecuter SX OS v1.6](https://sx.xecuter.com/)
 - DevMenu for titleid 01005D100807A000
 
 ## Troubleshootings
