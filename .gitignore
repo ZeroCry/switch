@@ -6,6 +6,7 @@ license.dat
 license-request.dat
 switch/
 tmp/
+sxos/
 
 # OS generated files
 .DS_Store
