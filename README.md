@@ -34,7 +34,7 @@ Then extract the whole zip file at the root of your SD card.
 
 #### SX OS
 
-- [Xecuter SX OS v1.9](https://sx.xecuter.com/)
+- [Xecuter SX OS v2.0](https://sx.xecuter.com/)
 - DevMenu for firmware 5.1- (titleid 01005D100807A000)
 
 #### ReiNX
