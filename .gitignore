@@ -2,14 +2,12 @@
 *.xci
 *.bin
 *.nsp
+*.dat
 license.dat
 license-request.dat
 switch/
 tmp/
 sxos/
-
-# Others CFW
-ReiNX.bin
 ReiNX/
 
 # OS generated files

@@ -22,6 +22,7 @@ Then extract the whole zip file at the root of your SD card.
 - [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Homebrew Menu v2.0.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
 - [NX-Shell - Beta Release 5](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch.
+- [ReiNXToolkit](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [WAINCartDumperNX v0.0.3](https://gbatemp.net/threads/xci-dumper.506700/): XCI Dumper
 
 ### Tools
@@ -31,8 +32,17 @@ Then extract the whole zip file at the root of your SD card.
 
 ### CFW
 
+#### SX OS
+
 - [Xecuter SX OS v1.9](https://sx.xecuter.com/)
-- DevMenu for titleid 01005D100807A000
+- DevMenu for firmware 5.1- (titleid 01005D100807A000)
+
+#### ReiNX
+
+- [ReiNX latest (2018-09-23)](https://github.com/Reisyukaku/ReiNX): A modular Switch custom firmware
+- Homebrew menu over album (titleid 010000000000100D)
+- Creport (titleid 0100000000000036)
+- Purple Black Theme (titleids: 0100000000001000, 010000000000100D and 0100000000001013)
 
 ## Troubleshootings
 
