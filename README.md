@@ -35,7 +35,6 @@ Then extract the whole zip file at the root of your SD card.
 #### SX OS
 
 - [Xecuter SX OS v2.0](https://sx.xecuter.com/)
-- DevMenu for firmware 5.1- (titleid 01005D100807A000)
 - Purple Black Theme (titleids: 0100000000001000, 010000000000100D and 0100000000001013)
 
 #### ReiNX
