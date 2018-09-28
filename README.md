@@ -21,8 +21,9 @@ Then extract the whole zip file at the root of your SD card.
 - [ftpd v2.2.0-947dc137](https://github.com/WinterMute/ftpd): FTP Server
 - [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Homebrew Menu v2.0.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
-- [NX-Shell - Beta Release 5](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch.
+- [NX-Shell - Beta Release 5](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [ReiNXToolkit](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
+- [Tinfoil bfd65e0](https://github.com/Adubbz/Tinfoil): Nintendo Switch homebrew to manage titles
 - [WAINCartDumperNX v0.0.3](https://gbatemp.net/threads/xci-dumper.506700/): XCI Dumper
 
 ### Tools
