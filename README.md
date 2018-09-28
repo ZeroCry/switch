@@ -15,9 +15,9 @@ Then extract the whole zip file at the root of your SD card.
 
 - [appstore v1.0](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 - [Checkpoint v3.4.2](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
+- [dz 30530fd](https://github.com/blawar/nut/tree/master/dz): Homebrew network title installer, and title key dumper
 - [EdiZon v1.5.0](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
-- [EdiZon ConfigAndScripts 253c46f0](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
-- [FreeShopNX v0.4.0](https://github.com/AnalogMan151/FreeShopNX): CDN title installer
+- [EdiZon ConfigAndScripts b9d24dcc](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.2.0-947dc137](https://github.com/WinterMute/ftpd): FTP Server
 - [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Homebrew Menu v2.0.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
@@ -39,7 +39,7 @@ Then extract the whole zip file at the root of your SD card.
 
 #### ReiNX
 
-- [ReiNX latest (2018-09-23)](https://github.com/Reisyukaku/ReiNX): A modular Switch custom firmware
+- [ReiNX latest (2018-09-28)](https://github.com/Reisyukaku/ReiNX): A modular Switch custom firmware
 - Homebrew menu over album (titleid 010000000000100D)
 - Creport (titleid 0100000000000036)
 - Purple Black Theme (titleids: 0100000000001000, 010000000000100D and 0100000000001013)
