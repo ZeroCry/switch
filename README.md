@@ -36,14 +36,14 @@ Then extract the whole zip file at the root of your SD card.
 #### SX OS
 
 - [Xecuter SX OS v2.0](https://sx.xecuter.com/)
-- Purple Black Theme (titleids: 0100000000001000, 010000000000100D and 0100000000001013)
+- Hollow Knight Theme (titleid 0100000000001000)
 
 #### ReiNX
 
 - [ReiNX latest (2018-09-28)](https://github.com/Reisyukaku/ReiNX): A modular Switch custom firmware
 - Homebrew menu over album (titleid 010000000000100D)
 - Creport (titleid 0100000000000036)
-- Purple Black Theme (titleids: 0100000000001000, 010000000000100D and 0100000000001013)
+- Galaxy Theme (titleid 0100000000001000)
 
 ## Troubleshootings
 
@@ -54,5 +54,5 @@ When booting into SX OS hbmenu I get the error "No applications could be found o
 In order to fix it, run in a terminal:
 
 ```
-sudo chflags -R arch /Volumes/<SDCARD>
+sudo chflags -R arch /Volumes/<SDCARD>/switch
 ```
