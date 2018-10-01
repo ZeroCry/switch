@@ -14,6 +14,8 @@ cp -rf EdiZon_ConfigsAndScripts-master/Scripts/* ../EdiZon/editor/scripts
 wget http://builds.reinx.guide/nightly/ReiNX-latest.zip -O ReiNX.zip
 wget http://builds.reinx.guide/toolkit/ReiNXToolkit-latest.nro -O ../switch/ReiNXToolkit.nro
 unzip ReiNX.zip
+mv ReiNX/sysmodules.dis/* ReiNX/sysmodules/
+rm -rf ReiNX/sysmodules.dis/
 cp -f ReiNX.bin ../
 cp -rf ReiNX ../
 
