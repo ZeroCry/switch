@@ -17,7 +17,7 @@ Then extract the whole zip file at the root of your SD card.
 - [Checkpoint v3.4.2](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
 - [dz 30530fd](https://github.com/blawar/nut/tree/master/dz): Homebrew network title installer, and title key dumper
 - [EdiZon v1.5.0](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
-- [EdiZon ConfigAndScripts 6f25884a7](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
+- [EdiZon ConfigAndScripts eb5a57db](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.2.0-947dc137](https://github.com/WinterMute/ftpd): FTP Server
 - [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Homebrew Menu v2.0.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
