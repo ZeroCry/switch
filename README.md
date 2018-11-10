@@ -43,6 +43,7 @@ Then extract the whole zip file at the root of your SD card.
 - Homebrew menu over album (titleid 010000000000100D)
 - Creport (titleid 0100000000000036)
 - Galaxy Theme (titleid 0100000000001000)
+- ldn_mitm sysmodule (260f877)
 
 ## Troubleshootings
 
