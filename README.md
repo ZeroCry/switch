@@ -34,7 +34,7 @@ Then extract the whole zip file at the root of your SD card.
 
 #### SX OS
 
-- [Xecuter SX OS v2.2 beta](https://sx.xecuter.com/)
+- [Xecuter SX OS v2.2.1 beta](https://sx.xecuter.com/)
 - Hollow Knight Theme (titleid 0100000000001000)
 
 #### ReiNX
