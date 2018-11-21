@@ -22,8 +22,8 @@ Then extract the whole zip file at the root of your SD card.
 - [Homebrew Menu v2.0.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
 - [NX-Shell - Beta Release 5](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [ReiNXToolkit](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
+- [SX Dumper v1.0.2](https://sx.xecuter.com/): Dump your retail game cartridges
 - [Tinfoil 883e3bd](https://github.com/Adubbz/Tinfoil): Nintendo Switch homebrew to manage titles
-- [WAINCartDumperNX v0.0.3](https://gbatemp.net/threads/xci-dumper.506700/): XCI Dumper
 
 ### Tools
 
@@ -34,7 +34,7 @@ Then extract the whole zip file at the root of your SD card.
 
 #### SX OS
 
-- [Xecuter SX OS v2.2.1 beta](https://sx.xecuter.com/)
+- [Xecuter SX OS v2.3 beta](https://sx.xecuter.com/)
 - Hollow Knight Theme (titleid 0100000000001000)
 
 #### ReiNX
