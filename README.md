@@ -15,6 +15,7 @@ Then extract the whole zip file at the root of your SD card.
 
 - [appstore v2.0](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 - [Checkpoint v3.4.2](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
+- [dz v0.98](https://github.com/BernardoGiordano/Checkpoint/): A homebrew game, update, and DLC installer
 - [EdiZon v1.5.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
 - [EdiZon ConfigAndScripts 1ca74dd1](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.2.0-947dc137](https://github.com/WinterMute/ftpd): FTP Server
@@ -23,7 +24,7 @@ Then extract the whole zip file at the root of your SD card.
 - [NX-Shell - Beta Release 5](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [ReiNXToolkit](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v1.0.2](https://sx.xecuter.com/): Dump your retail game cartridges
-- [Tinfoil 883e3bd](https://github.com/Adubbz/Tinfoil): Nintendo Switch homebrew to manage titles
+- [Tinfoil a14ea6a](https://github.com/Adubbz/Tinfoil): Nintendo Switch homebrew to manage titles
 
 ### Tools
 
