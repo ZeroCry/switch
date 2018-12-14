@@ -20,7 +20,7 @@ Then extract the whole zip file at the root of your SD card.
 - [EdiZon ConfigAndScripts 1fb81972](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.2.0-947dc137](https://github.com/WinterMute/ftpd): FTP Server
 - [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
-- [Homebrew Menu v2.0.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
+- [Homebrew Menu v3.0.1](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
 - [NX-Shell - Beta Release 5](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [ReiNXToolkit](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v1.0.2](https://sx.xecuter.com/): Dump your retail game cartridges
